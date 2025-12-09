@@ -1,4 +1,4 @@
-📋 Pré-requisitos
+Pré-requisitos
 
 Antes de iniciar, tenha instalado na sua máquina:
 
@@ -13,12 +13,12 @@ Verifique se estão instalados com:
 node -v
 npm -v
 
-🚀 Como rodar o projeto
-1️⃣ Clonar o repositório
+Como rodar o projeto
+Clonar o repositório
 git clone <URL_DO_REPOSITORIO>
 cd agibank-playwright-tests
 
-2️⃣ Instalar as dependências
+Instalar as dependências
 npm install
 
 Instalar os navegadores do Playwright
